@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="id">
+<Schema name="RMS_MS_Estações_Ribas_do_Rio_Pardo" id="RMS_MS_Estações_Ribas_do_Rio_Pardo">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>RMS_MS_Estações_Ribas_do_Rio_Pardo</name>
+  <Placemark>
+	<name>Ribas do Rio Pardo</name>
+	<description>Ribas do Rio Pardo</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7586686975206,-20.441468929195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mantena</name>
+	<description>Mantena</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.6433011999226,-20.4252987063455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luiz Gama</name>
+	<description>Luiz Gama</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5015845506442,-20.4365466914609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Formoso</name>
+	<description>Formoso</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.4196036609006,-20.4033641399736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tamanduá</name>
+	<description>Tamanduá</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.2785937434303,-20.3782721745941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arlindo Luz</name>
+	<description>Arlindo Luz</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.173488788004,-20.3995935764677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atoladeira</name>
+	<description>Atoladeira</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.0602106285261,-20.4379930031753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 667</name>
+	<description>Posto 667</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-52.9407052659613,-20.4277921756122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bálsamo</name>
+	<description>Bálsamo</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9479324711359,-20.3881733876863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alegre</name>
+	<description>Alegre</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1051214604429,-20.441643607655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ligação</name>
+	<description>Ligação</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.2958215918035,-20.4949590571019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Botas</name>
+	<description>Botas</description>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_Ribas_do_Rio_Pardo">
+		<SimpleData name="id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1886969760409,-20.474636038332</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
