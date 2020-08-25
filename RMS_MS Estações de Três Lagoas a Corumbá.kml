@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="id">
+<Schema name="RMS_MS_Estações_de_Três_Lagoas_a_Corumbá" id="RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="wikimapia" type="string"></SimpleField>
+	<SimpleField name="est_ferrov" type="string"></SimpleField>
+	<SimpleField name="google" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="path" type="string"></SimpleField>
+</Schema>
+<Folder><name>RMS_MS_Estações_de_Três_Lagoas_a_Corumbá</name>
+  <Placemark>
+	<name>Piraputanga</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="layer">RMO_MS Aquidauana - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Aquidauana - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5337827967771,-20.4788007790154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Camisão</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="layer">RMO_MS Aquidauana - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Aquidauana - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6363116649929,-20.486183637918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aquidauana</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="layer">RMO_MS Aquidauana - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Aquidauana - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7909933590615,-20.4759658886075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taunay</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="layer">RMO_MS Aquidauana - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Aquidauana - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0809823416865,-20.2889327994739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guia Lopes</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="layer">RMO_MS Aquidauana - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Aquidauana - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9072716448347,-20.3917453558099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa Rica</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.4968081548615,-20.5095585436229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jerivá</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.3880998626106,-20.5002456101062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manoel Brandão</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.5817374102611,-20.5082695046208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ligação</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.2958215918035,-20.4949590571019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indubrasil</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7612751606407,-20.4812265612921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campo Grande</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6204304790579,-20.4552148491651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 903??</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6707736733229,-20.4544354533822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parada Calógeras??</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.6363856961742,-20.4661273855208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mário Dutra??</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7042827149976,-20.4589366382222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Intermodal de Cargas</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="layer">RMO_MS Campo Grande - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Campo Grande - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.641990221273,-20.5735713462612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carandazal</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.1689392226852,-19.8092928338345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 1229</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.117239678036,-19.843334111486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 1249</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.2913271326229,-19.7292795424138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agente Inocêncio</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.4300271071352,-19.6389058391728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Albuquerque</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.4944989651828,-19.471016223464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Urucum</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6378271620662,-19.1630966585426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Antonio Maria Coelho</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.5904243702807,-19.3007928996929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 1298</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.5287714762904,-19.4196716599035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corumbá</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="wikimapia">http://wikimapia.org/4910238/pt/Esta%C3%A7%C3%A3o-ferrovi%C3%A1ria-de-Corumb%C3%A1</SimpleData>
+		<SimpleData name="est_ferrov">http://www.estacoesferroviarias.com.br/ms_nob/corumba.htm</SimpleData>
+		<SimpleData name="google">https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+Ferrovi%C3%A1ria+de+Corumb%C3%A1+-+Ant%C3%B4nio+Maria+Coelho/@-19.0116459,-57.6488257,17z/data=!3m1!4b1!4m5!3m4!1s0x9387a0805fc1713b:0xacf54ce9054e1a80!8m2!3d-19.011651!4d-57.646637</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6459794627827,-19.0114026483048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porto Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="layer">RMO_MS Corumbá - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Corumbá - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.4561503037169,-19.6103787590464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palmeiras</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="layer">RMO_MS Dois Irmãos do Buriti - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Dois Irmãos do Buriti - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.4301360978281,-20.448303808399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agachi</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.233092925529,-20.2552625034993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duque Estrada</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.3180838955371,-20.2360812049884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miranda</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.3795197929992,-20.2411736555946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salobra</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.505113003083,-20.1977763409875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guaicurus</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.7672049918281,-20.0768236713114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bodoquena</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.9896085148634,-19.8544599641527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coronel Juvêncio</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.6420863395054,-20.1945191009299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portocarrero</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="layer">RMO_MS Miranda - Estações</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Miranda - Estações.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.8871072711948,-19.9592411142236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estação Jaraguá</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="layer">RMO_MS Estações Terenos</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Ponta Porã - Estações.shp|layername=RMO_MS Ponta Porã - Estações</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8121635,-20.4891698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estação Terenos</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="layer">RMO_MS Estações Terenos</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Ponta Porã - Estações.shp|layername=RMO_MS Ponta Porã - Estações</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.8652489,-20.4449123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estação Pedro Celestino</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="layer">RMO_MS Estações Terenos</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Ponta Porã - Estações.shp|layername=RMO_MS Ponta Porã - Estações</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.0166992,-20.4016074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estação Cachoeirão</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="layer">RMO_MS Estações Terenos</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Ponta Porã - Estações.shp|layername=RMO_MS Ponta Porã - Estações</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2868966,-20.4361445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estação Murtinho</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="layer">RMO_MS Estações Terenos</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMO_MS Ponta Porã - Estações.shp|layername=RMO_MS Ponta Porã - Estações</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2042997,-20.4341162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ribas do Rio Pardo</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7586686975206,-20.441468929195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mantena</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.6433011999226,-20.4252987063455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luiz Gama</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5015845506442,-20.4365466914609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Formoso</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.4196036609006,-20.4033641399736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tamanduá</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.2785937434303,-20.3782721745941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arlindo Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.173488788004,-20.3995935764677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atoladeira</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.0602106285261,-20.4379930031753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 667</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-52.9407052659613,-20.4277921756122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bálsamo</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.9479324711359,-20.3881733876863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1051214604429,-20.441643607655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Botas</name>
+	<ExtendedData><SchemaData schemaUrl="#RMS_MS_Estações_de_Três_Lagoas_a_Corumbá">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="layer">RMS_MS Estações Ribas do Rio Pardo</SimpleData>
+		<SimpleData name="path">C:/caeca/qgis/Ferrovias/RMS_MS Estações Ribas do Rio Pardo.shp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1886969760409,-20.474636038332</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

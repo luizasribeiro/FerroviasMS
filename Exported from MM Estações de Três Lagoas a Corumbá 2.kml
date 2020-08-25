@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Estações de Três Lagoas a Corumbá</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Estação Guavira</name>
+      <description><![CDATA[descrição: <br>descriptio: descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:<br>tessellate: 0<br>extrude: 0<br>visibility: 0]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="descriptio">
+          <value><![CDATA[descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:]]></value>
+        </Data>
+        <Data name="tessellate">
+          <value>0</value>
+        </Data>
+        <Data name="extrude">
+          <value>0</value>
+        </Data>
+        <Data name="visibility">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -54.79627,-20.661262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação Jaraguá</name>
+      <description><![CDATA[descrição: <br>descriptio: descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:<br>tessellate: 0<br>extrude: 0<br>visibility: 0]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+     <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="descriptio">
+          <value><![CDATA[descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:]]></value>
+        </Data>
+        <Data name="tessellate">
+          <value>0</value>
+        </Data>
+        <Data name="extrude">
+          <value>0</value>
+        </Data>
+        <Data name="visibility">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -54.812164,-20.48917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação Terenos</name>
+      <description><![CDATA[descrição: <br>descriptio: descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:<br>tessellate: 0<br>extrude: 0<br>visibility: 0]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="descriptio">
+          <value><![CDATA[descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:]]></value>
+        </Data>
+        <Data name="tessellate">
+          <value>0</value>
+        </Data>
+        <Data name="extrude">
+          <value>0</value>
+        </Data>
+        <Data name="visibility">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -54.865249,-20.444912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação Pedro Celestino</name>
+      <description><![CDATA[descrição: <br>descriptio: descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:<br>tessellate: 0<br>extrude: 0<br>visibility: 0]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="descriptio">
+          <value><![CDATA[descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:]]></value>
+        </Data>
+        <Data name="tessellate">
+          <value>0</value>
+        </Data>
+        <Data name="extrude">
+          <value>0</value>
+        </Data>
+        <Data name="visibility">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -55.016699,-20.401607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação Cachoeirão</name>
+      <description><![CDATA[descrição: <br>descriptio: descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:<br>tessellate: 0<br>extrude: 0<br>visibility: 0]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="descriptio">
+          <value><![CDATA[descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:]]></value>
+        </Data>
+        <Data name="tessellate">
+          <value>0</value>
+        </Data>
+        <Data name="extrude">
+          <value>0</value>
+        </Data>
+        <Data name="visibility">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -55.286897,-20.436144,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação Murtinho</name>
+      <description><![CDATA[descrição: <br>descriptio: descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:<br>tessellate: 0<br>extrude: 0<br>visibility: 0]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="descriptio">
+          <value><![CDATA[descrição: <br>descriptio: <br>tessellate: <br>extrude: <br>visibility:]]></value>
+        </Data>
+        <Data name="tessellate">
+          <value>0</value>
+        </Data>
+        <Data name="extrude">
+          <value>0</value>
+        </Data>
+        <Data name="visibility">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -55.2043,-20.434116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

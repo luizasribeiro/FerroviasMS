@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="id">
+<Schema name="RMO_MS_Corumbá___Estações_com_links" id="RMO_MS_Corumbá___Estações_com_links">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="wikimapia" type="string"></SimpleField>
+	<SimpleField name="est_ferrov" type="string"></SimpleField>
+	<SimpleField name="google" type="string"></SimpleField>
+</Schema>
+<Folder><name>RMO_MS_Corumbá___Estações_com_links</name>
+  <Placemark>
+	<name>Carandazal</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.1689392226852,-19.8092928338345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 1229</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.117239678036,-19.843334111486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 1249</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.2913271326229,-19.7292795424138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agente Inocêncio</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.4300271071352,-19.6389058391728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Albuquerque</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.4944989651828,-19.471016223464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Urucum</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6378271620662,-19.1630966585426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Antonio Maria Coelho</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.5904243702807,-19.3007928996929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Posto 1298</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.5287714762904,-19.4196716599035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corumbá</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="wikimapia">http://wikimapia.org/4910238/pt/Esta%C3%A7%C3%A3o-ferrovi%C3%A1ria-de-Corumb%C3%A1</SimpleData>
+		<SimpleData name="est_ferrov">http://www.estacoesferroviarias.com.br/ms_nob/corumba.htm</SimpleData>
+		<SimpleData name="google">https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+Ferrovi%C3%A1ria+de+Corumb%C3%A1+-+Ant%C3%B4nio+Maria+Coelho/@-19.0116459,-57.6488257,17z/data=!3m1!4b1!4m5!3m4!1s0x9387a0805fc1713b:0xacf54ce9054e1a80!8m2!3d-19.011651!4d-57.646637</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6459794627827,-19.0114026483048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porto Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#RMO_MS_Corumbá___Estações_com_links">
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.4561503037169,-19.6103787590464</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
